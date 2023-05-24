@@ -13,7 +13,7 @@ const Cards = () => {
           what is the difference from the others
         </h3>
       </div>
-      <section className="md:grid md:grid-cols-3 gap-5">
+      <section className="md:grid md:grid-cols-3 gap-5 ">
       <section>
       <div className="card h-96 bg-base-100  shadow-2xl  ">
         <div className="card-body items-center  text-center md:mt-20 mt-10">
@@ -28,7 +28,7 @@ const Cards = () => {
       </div>
       </section>
       <section>
-      <div className="card h-96 bg-base-100  shadow-2xl  ">
+      <div className="card h-96 bg-base-100  shadow-2xl my-5 md:my-0 ">
         <div className="card-body items-center  text-center md:mt-20 mt-10">
           <span className="card-title">
        
